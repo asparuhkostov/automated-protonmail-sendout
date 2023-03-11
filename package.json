@@ -1,0 +1,14 @@
+{
+  "name": "automated-protonmail-sendout",
+  "version": "1.0.0",
+  "description": "A small script to do automated batch email sendouts using ProtonMail.",
+  "main": "script.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asparuhkostov",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.4"
+  }
+}
